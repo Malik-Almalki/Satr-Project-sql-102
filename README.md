@@ -65,3 +65,10 @@
 #
 - تحديث المعدل التراكمي للطلاب الذي معدلهم التراكمي أقل من ٦٠ وزيادة معدلهم بخمس درجات.
 <img width="807" height="220" alt="12" src="https://github.com/user-attachments/assets/f4884940-3944-4808-9a86-14a4ae0c5e07" />
+
+
+
+#
+## Website
+
+[Malik Almalki ](https://malik.com.sa/)
